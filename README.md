@@ -1,6 +1,6 @@
 <div align="center">
 
-# Academic Code Base
+# Academic Programming Codebase
 
 ### Multi-Language Programming Repository
 
