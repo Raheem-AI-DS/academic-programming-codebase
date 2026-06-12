@@ -212,7 +212,7 @@ This repository is intended for:
 # Author
 
 **Raheem Mulla**
-Computer Engineering Student
+Computer Engineering(AI & DS) Student
 
 ---
 
