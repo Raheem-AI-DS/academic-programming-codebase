@@ -148,7 +148,7 @@ The repository may include the following categories of programs:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/academic-code-base.git
+git clone https://github.com/Raheem-AI-DS/academic-codebase.git
 ```
 
 ## Navigate into the Project Directory
