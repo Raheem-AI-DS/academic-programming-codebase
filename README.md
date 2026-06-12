@@ -1,4 +1,4 @@
-# Academic-Code-Base
+# academic-programming-codebase
 
 <div align="center">
 
